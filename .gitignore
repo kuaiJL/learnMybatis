@@ -1,0 +1,4 @@
+.idea
+*.xml
+./mybatis_01/target
+./mybatis_02/target
